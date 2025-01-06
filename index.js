@@ -14,7 +14,7 @@ if (matchesPlayer <= 10){
 } else if (matchesPlayer >= 11 && (matchesPlayer <= 20)){
     RankPlayer = "Bronze"
 }else if (matchesPlayer >= 21 && (matchesPlayer <= 50)){
-    RankPlayer = "Prata"
+    RankPlayer = "prata"
 }else if (matchesPlayer >= 51 && (matchesPlayer <= 80)){
     RankPlayer = "Ouro"
 }else if (matchesPlayer >= 81 && (matchesPlayer <= 90)){
