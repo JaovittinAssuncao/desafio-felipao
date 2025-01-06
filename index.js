@@ -28,4 +28,4 @@ if (matchesPlayer <= 10){
 }
 
 //Criar Mensagem
-console.log((Mensagem1 + matchesPlayer + Mensagem2 + RankPlayer)
+console.log(Mensagem1 + matchesPlayer + Mensagem2 + RankPlayer)
